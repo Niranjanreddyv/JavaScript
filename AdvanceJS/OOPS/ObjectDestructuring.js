@@ -7,7 +7,7 @@ console.log(name);
 console.log(price);
 console.log(rating);
 
-// speered oprator
+// spraed oprator
 
 const Product1 = {oderId:"123456", oderIteam:"xyz", ...Product};
 console.log(Product1); 
