@@ -18,4 +18,7 @@ console.log(Product3);
 const Product4={...Product, price:900};
 console.log(Product4);
 
+console.log(typeof(Product4));
+console.log(Object.prototype);
+
 
