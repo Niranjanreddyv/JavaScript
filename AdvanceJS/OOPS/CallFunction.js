@@ -39,7 +39,7 @@ console.log(f("Hello", "Hii"));
 
 // intesting case 
 
-// node is working different here bi=ut in window it pointing global scope
+// node is working different here but in window it pointing global scope
 let name = "Niranjan";
 let obj1 = {
 	name:"Siva",
