@@ -32,3 +32,7 @@ gun();
 console.log(x); // x is not visiable here
 
 // ReferenceError: x is not defined
+
+
+// just git purpose 
+console.log("hi new changes ");
